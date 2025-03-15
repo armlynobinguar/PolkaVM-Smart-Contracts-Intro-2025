@@ -372,5 +372,5 @@
     "yn": "^3.1.1",
     "yocto-queue": "^0.1.0"
   },
-  "description": ""
+  "description": "PolkaVM is a smart contract learning project that combines the **Polkadot ecosystem** with **Solidity**-based development. It is designed to help developers explore smart contract principles while building on a familiar Ethereum-style language within the context of Polkadot-compatible chains."
 }
